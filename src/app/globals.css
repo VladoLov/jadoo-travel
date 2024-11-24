@@ -76,3 +76,7 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+.red-gradient {
+  background-color: linear-gradient(180deg, #ff946d 0%, #ff7d68 100%);
+}
